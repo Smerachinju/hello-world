@@ -2,4 +2,4 @@
 trial repository for git lab
                Hello ..good evening
                Todays lab session is all about Git
-               Git installation,configuration,I dont knw wht has changed,again it,BY PERSON2,by smera
+               Git installation,configuration,I dont knw wht has changed,again it,BY PERSON2,by smera,by re1
